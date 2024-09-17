@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: lucasferreiralsf-wasmer-test-20
+owner: lucasferreiralsf
+package: .
